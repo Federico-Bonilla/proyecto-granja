@@ -1,1 +1,1 @@
-vacas 6
+vacas 4
